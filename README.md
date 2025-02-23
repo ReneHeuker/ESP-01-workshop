@@ -6,9 +6,9 @@ Configureer je microcontroller : Generic ESP8266 Module
 
 Installeer de volgende bibliotheken:
 
-#**Adafruit NeoPixel** by Adafruit >= 1.12.4
+**Adafruit NeoPixel** by Adafruit >= 1.12.4
 
-#**DallasTemperature** by Miles Burton >= 4.0.3
+**DallasTemperature** by Miles Burton >= 4.0.3
 
 **OneWire** by Jim Studt, .... >= 2.3.8
 
