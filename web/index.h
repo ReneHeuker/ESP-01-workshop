@@ -29,10 +29,6 @@ const char INDEX_HTML[] PROGMEM = R"=====(
                         <div class="thermometer-base-fill color-fill"></div>
                     </div>
                     <div class="scale">
-<!--                        <div class="scale-line long"><div class="scale-value">150</div></div>-->
-<!--                        <div class="scale-line short"></div>-->
-<!--                        <div class="scale-line long"><div class="scale-value">125</div></div>-->
-<!--                        <div class="scale-line short"></div>-->
                         <div class="scale-line long"><div class="scale-value">100</div></div>
                         <div class="scale-line short"></div>
                         <div class="scale-line long"><div class="scale-value">75</div></div>
