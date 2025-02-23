@@ -1,7 +1,8 @@
 # ESP-01-workshop
 Voorbeeld code voor workshop
 
-Download de IDE op https://www.arduino.cc
+Download de **Aruino IDE** op https://www.arduino.cc >= 2.3.4
+
 Configureer je microcontroller : Generic ESP8266 Module
 
 Installeer de volgende bibliotheken:
