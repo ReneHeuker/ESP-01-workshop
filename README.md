@@ -15,3 +15,13 @@ Installeer de volgende bibliotheken:
 
 **ArduinoJson** by Benoit Blanchon >= 7.3.0
 
+
+Les-1 : hello world
+
+Les-2 : Wifi en rest-service setup
+
+Les-3 : Getting temperture from DS18B20
+
+Les-4 : Controlling WS2812B leds
+
+Les-5 : Adding a web-interface
