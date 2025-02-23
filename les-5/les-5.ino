@@ -14,8 +14,8 @@
 #include "therm.h"
 #include "slider.h"
 
-const char* ssid = "CaReSoft";
-const char* password = "2905196902";
+const char* ssid = "Gino WIFI Gasten";
+const char* password = "GinoGasten!";
 String hostname = "workshop-<<yourname>>";
 
 ESP8266WebServer server(80);
