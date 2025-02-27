@@ -29,3 +29,7 @@ Les-3 : Getting temperature from DS18B20
 Les-4 : Controlling WS2812B leds
 
 Les-5 : Adding a web-interface
+
+
+Voor de programmer moet je mogelijk een driver installeren :
+https://www.silabs.com/developer-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads
