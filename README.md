@@ -4,6 +4,10 @@ Voorbeeld code voor workshop
 Download de **Aruino IDE** op https://www.arduino.cc >= 2.3.4
 
 Configureer je microcontroller : Generic ESP8266 Module
+als deze er nog niet is dan :
+In the “Additional Boards Manager URLs” field, paste the following URL:
+
+http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 Installeer de volgende bibliotheken:
 
